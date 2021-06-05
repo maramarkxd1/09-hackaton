@@ -1,0 +1,35 @@
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+body {
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.container {
+    color: white;
+    background-color: #ad2076;
+    max-width: 1600px;
+    margin-right: auto;
+    margin-left: auto;
+    overflow: hidden;
+    display: block;
+    padding: 0 auto;
+}
+.tittle {
+    text-align: center;
+    padding: 5rem;
+    background-color: #5d0b3b;
+}
+.text {
+    width: 90%;
+    padding: 3rem;
+    border: 10px solid #491f5f;
+    background-color: #8f4a99;
+}
+.quest {
+    line-height: 50px;
+    
+}
+.quest ul {
+    list-style: none;
+}
