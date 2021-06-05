@@ -1,6 +1,6 @@
-* 1.- ¿Cuál fue la razón de crear Javascript?
-** La razón para crear Javascript fue que en esas epocas se andaba desarrollando los primeros aplicativos web y los fromularios eran mucho mas complejos de ahi originó la necesidad de concebir un lenguaje de programación que se ejecutara en el mismo navegador, con el objetivo de optimizar el tiempo de navegación de los usuarios; por ejemplo, si un usuario ingresaba de forma incorrecta su información en un formulario, no tendría que esperar mucho tiempo para detectar y corregir los errores.
-* 2.- ¿Quién fue el creador de Javascript?
-** El conocido programador Brendan Eich, empleado de Netscape, una sólida empresa estadounidense de software, que por aquellos momentos estaba por lanzar el navegador Netscape Navigator 2.0.
-* 3.- ¿Por qué se llamó Javascript?
-** En un principio Brendan Eich denomino al lenguaje que creo LiveScript, el cambio de nombre fue exclusivamente por marketing, ya que Java era la palabra de moda en el mundo informático y de Internet de la época.
+# 1.- ¿Cuál fue la razón de crear Javascript?
+## La razón para crear Javascript fue que en esas epocas se andaba desarrollando los primeros aplicativos web y los fromularios eran mucho mas complejos de ahi originó la necesidad de concebir un lenguaje de programación que se ejecutara en el mismo navegador, con el objetivo de optimizar el tiempo de navegación de los usuarios; por ejemplo, si un usuario ingresaba de forma incorrecta su información en un formulario, no tendría que esperar mucho tiempo para detectar y corregir los errores.
+# 2.- ¿Quién fue el creador de Javascript?
+## El conocido programador Brendan Eich, empleado de Netscape, una sólida empresa estadounidense de software, que por aquellos momentos estaba por lanzar el navegador Netscape Navigator 2.0.
+# 3.- ¿Por qué se llamó Javascript?
+## En un principio Brendan Eich denomino al lenguaje que creo LiveScript, el cambio de nombre fue exclusivamente por marketing, ya que Java era la palabra de moda en el mundo informático y de Internet de la época.
